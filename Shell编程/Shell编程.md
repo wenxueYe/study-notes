@@ -1,6 +1,12 @@
 # Shell编程
 
 > 整理自[尚硅谷-Shell从入门到实战](https://www.bilibili.com/video/BV1hW41167NW)
+>
+> - 文章发布在：
+>
+>     - [GitHub资源地址](https://github.com/wenxueYe/study-notes)
+>
+>     - [CSDN资源地址](https://blog.csdn.net/weixin_44728780/article/details/122464021)
 
 [TOC]
 
