@@ -1,0 +1,2 @@
+- apt install yum
+- yum install nginx
